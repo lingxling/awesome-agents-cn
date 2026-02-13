@@ -83,7 +83,7 @@ chmod +x install-agents.sh
 curl -s https://raw.githubusercontent.com/VoltAgent/awesome-claude-code-subagents/main/categories/09-meta-orchestration/agent-installer.md -o ~/.claude/agents/agent-installer.md
 ```
 
-然后在 Claude Code 中："使用 agent-installer 显示可用的类别"或"查找 PHP agents 并全局安装 php-pro"。
+然后在 Claude Code 中：\"使用 agent-installer 显示可用的类别\"或\"查找 PHP agents 并全局安装 php-pro\"。
 
 <br />
 
