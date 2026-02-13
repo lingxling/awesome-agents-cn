@@ -13,8 +13,8 @@ Agent（智能体）本质上是一段精心设计的提示词，定义了 AI �
 本项目汇集多个优秀的 Agent 仓库，并将它们翻译成中文版本，方便中文用户使用：
 
 - **[awesome-claude-agents-cn](awesome-claude-agents-cn/)** - AI 开发团队（24个专业 agents）
-- **[awesome-claude-code-subagents-cn](awesome-claude-code-subagents-cn/)** - 代码 Subagents（126+个，10个类别）
-- **[buildwithclaude-cn](buildwithclaude-cn/)** - 插件市场（117个agents + 175个commands + 28个hooks + 26个skills）
+- **[awesome-claude-code-subagents-cn](awesome-claude-code-subagents-cn/)** - 代码 Subagents（108个，10个类别）
+- **[buildwithclaude-cn](buildwithclaude-cn/)** - 插件市场（110个agents + 175个commands + 28个hooks + 26个skills）
 
 
 ## 翻译进度
@@ -40,11 +40,12 @@ Agent（智能体）本质上是一段精心设计的提示词，定义了 AI �
   - 09-meta-orchestration (10个agents) ✅
   - 10-research-analysis (6个agents) ✅
   - **总计：108个agents全部完成！**
+- **buildwithclaude-cn** (全部完成):
+  - README.md ✅
+  - agents (110个) ✅
+  - **总计：110个agents全部完成！**
 
-### ⏳ 进行中
-- **buildwithclaude-cn**:
-  - README.md (待开始)
-  - agents (117个，待开始)
+**🎉 所有翻译工作已完成！总计：242个agents + 175个commands + 28个hooks + 26个skills！**
 
 ## 快速开始
 
